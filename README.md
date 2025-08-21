@@ -26,11 +26,17 @@ A Spring Boot project that automatically allocates **CBCT subjects** to students
 
 ## 📂 Project Structure
 src/main/java/com/guru/cbct/cbct_allocation
+
 ├── student # Student entity + repository
+
 ├── subject # Subject entity + repository
+
 ├── allocation # Allocation logic service + controller
+
 ├── DataLoader # Loads sample data
+
 └── CbctAllocationApplication.java
+
 
 Access API
 
